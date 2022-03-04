@@ -1,0 +1,18 @@
+
+body {
+  background-color: mediumpurple;
+}
+
+h1 {
+  background-color: #7915a3;
+  color: #2c0c45;
+  padding: 40px;
+  text-align: center;
+}
+
+#hello-world {
+background-color: #8f17c2;
+  color: #2c0c45;
+  padding: 20px;
+  text-align: center;
+}
